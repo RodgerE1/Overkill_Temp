@@ -1,3 +1,3 @@
 # Overkill_Temp
-Indoor Temperature Logger with 3 Sensors
-for the Arduino 33 IOT
+Indoor Temperature Logger with 3 Temperature Sensors and 2 Humidity Sensors
+for the Arduino Nano 33 IOT
